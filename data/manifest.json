@@ -1,0 +1,16 @@
+{
+  "description": "NeurIPS 2024 sample papers for blueprint extraction demo",
+  "source": "https://openreview.net",
+  "papers": [
+    {
+      "paper_id": "6HO33urpaI",
+      "title": "Open-Book Neural Algorithmic Reasoning",
+      "url": "https://openreview.net/forum?id=6HO33urpaI",
+      "pdf_url": "https://openreview.net/pdf?id=6HO33urpaI",
+      "primary_area": "graph_neural_networks",
+      "venue": "NeurIPS 2024 poster"
+    }
+  ],
+  "note": "Full paper text is not included. Users should download from source URLs."
+}
+
